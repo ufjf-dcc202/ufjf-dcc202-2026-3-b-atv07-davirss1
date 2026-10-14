@@ -1,0 +1,20 @@
+dt {
+    color: #fff;
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+h1 {
+    color: blue;
+    font-size: 46px;
+    font-weight: 100;
+}
+
+.subtitle {
+    color: #fff;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    font-weight: 700;
+}
